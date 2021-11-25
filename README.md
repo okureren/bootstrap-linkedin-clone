@@ -6,4 +6,4 @@ Y. Eren Okur
 
 ## Description:
 
-Linkedin Clone with Bootstrap [Patika](https://www.patika.dev/)
+Linkedin Clone with using Bootstrap [Patika](https://www.patika.dev/)
